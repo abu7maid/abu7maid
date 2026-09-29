@@ -1,6 +1,6 @@
 
 ![](https://komarev.com/ghpvc/?username=abu7maid&label=Profile+Views)
-#Hi, I'm Mohammas Smairat
+#Hi, I'm Mohammad Smairat
 <!--
 **abu7maid/abu7maid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
