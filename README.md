@@ -1,9 +1,11 @@
 
 ![](https://komarev.com/ghpvc/?username=abu7maid&label=Profile+Views)
 #Hi, I'm Mohammad Smairat
+### Software Engineering Student | Research Assistant | IT Trainer
 <!--
 **abu7maid/abu7maid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+## Tech Stack
+https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
